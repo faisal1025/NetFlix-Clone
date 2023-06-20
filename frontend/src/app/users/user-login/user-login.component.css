@@ -1,0 +1,12 @@
+.btn{
+    background-color: #e50914;
+    color: #ffffff;
+}
+
+span{
+    color: #e50914;
+}
+
+input.ng-invalid.ng-touched{
+    border:2px solid red;
+}

@@ -1,0 +1,20 @@
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.deps.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.AssemblyInfo.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.deps.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb

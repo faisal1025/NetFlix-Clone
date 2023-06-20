@@ -1,0 +1,66 @@
+<div class="fluid-container">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <a class="navbar-brand " routerLink="">NetChill</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
+      <div class="col-md-auto">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" routerLink="">Home</a>
+          </li>
+          <li class="nav-item" *ngIf="auth.isLoggedIn()">
+            <a class="nav-link" [routerLink]="['/featured']">Featured</a>
+          </li>
+          <li class="nav-item" *ngIf="auth.isLoggedIn()">
+            <a class="nav-link" [routerLink]="['/newReleases']">New Releases</a>
+          </li>
+          <li class="nav-item" *ngIf="auth.isLoggedIn()">
+            <a class="nav-link" [routerLink]="['/upcoming']">Upcoming</a>
+          </li>
+          <li class="nav-item" *ngIf="auth.isLoggedIn()">
+            <a class="nav-link" [routerLink]="['/myList', auth.currentUser.value?.Id]">My List</a>
+          </li>
+          <li class="nav-item" *ngIf="auth.isLoggedIn() && auth.currentUser.value?.Role == 'Admin'">
+            <a class="nav-link" [routerLink]="['/revokeSubscription']">Revoke Subscription</a>
+          </li>
+          <li class="nav-item" *ngIf="auth.isLoggedIn() && auth.currentUser.value?.Role == 'Admin'">
+            <a class="nav-link" [routerLink]="['/upload']">Upload Content</a>
+          </li>
+          <li class="nav-item" *ngIf="!auth.isLoggedIn()">
+            <a class="nav-link" [routerLink]="['/search']">Search</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-auto">
+        <div class="row justify-content-between">
+          <div class="col-md-auto greeting" *ngIf="auth.isLoggedIn()">
+            Hi, {{auth.currentUser.value?.UserName}}
+          </div>
+          <div class="col-md-auto" *ngIf="!auth.isLoggedIn(); else elseBlock">
+            <button class="btn btn-sm btn-outline-primary my-2 my-sm-0 mx-2" [routerLink]="['/login']">Login</button>
+            <button class="btn btn-sm btn-outline-primary my-2 my-sm-0" [routerLink]="['/register']">SignUp</button>
+          </div>
+          <ng-template #elseBlock>
+            <div class="col-md-auto">
+              <button class="btn btn-sm btn-outline-primary my-2 my-sm-0" [routerLink]="['/logout']">LogOut</button>
+            </div>
+          </ng-template>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+</div>
+
+
+<router-outlet></router-outlet>
+
+
+<div class="container-fluid">
+  <footer class="row bg-dark">
+    <span class="text-white text-center p-2">2022 &copy; Netchill.com</span>
+  </footer>
+</div>

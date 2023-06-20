@@ -1,0 +1,116 @@
+<div class="row mt-5 p-5">
+    <div class="col-12 m-auto">
+        <div class="card m-auto">
+            <div class="card-header">
+                Upload Movies
+            </div>
+            <div class="card-body">
+                <form [formGroup]="uploadForm" (ngSubmit)="onSubmit()" enctype="multipart/form-data">
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+                            <div *ngIf="imagePreviewFile && imagePreviewFile !== ''">
+                                <img [src]="imagePreviewFile" [alt]="uploadForm.value.name">
+                            </div>
+                
+                            <div class="form-group col-12 mt-3">
+                                <label for="" class="form-label">Upload Movie Poster</label>
+                                <input type="file" class="form-control" accept="image/*" (change)="imagePreview($event)" formControlName="MoviePoster">
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['MoviePoster'].errors?.['required'] && (uploadForm.controls['MoviePoster'].touched || uploadForm.controls['MoviePoster'].dirty)">
+                                    Movie Poster is required
+                                </span>
+                            </div>
+
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group col-12">
+                                <label for="name" class="form-label">Name</label>
+                                <input type="text" class="form-control" formControlName="Name" name="Name">
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['Name'].errors?.['required'] && (uploadForm.controls['Name'].touched || uploadForm.controls['Name'].dirty)">
+                                    Name is required.
+                                </span>
+                            </div>
+
+                            <div class="form-group col-12 mt-3">
+                                <label for="email" class="form-label">Category</label>
+                                <select type="text" class="form-control" formControlName="Category">
+                                    <option [defaultSelected]="true">--Please Enter Category--</option>
+                                    <option value="Upcoming">Upcoming</option>
+                                    <option value="New Release">New Release</option>
+                                    <option value="Featured">Featured</option>
+                                </select>
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['Category'].errors?.['required'] && (uploadForm.controls['Category'].touched || uploadForm.controls['Category'].dirty)">
+                                    Category is required
+                                </span>
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['Category'].errors?.['maxlength'] && (uploadForm.controls['Category'].touched || uploadForm.controls['Category'].dirty)">
+                                    Category should be maximum of 255 charecter.
+                                </span>
+                            </div>
+
+                            <div class="form-group col-12 mt-3">
+                                <label for="passwrod" class="form-label">Year of Release</label>
+                                <input type="date" class="form-control" formControlName="YoR">
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['YoR'].errors?.['required'] && (uploadForm.controls['YoR'].touched || uploadForm.controls['YoR'].dirty)">
+                                    Year of Release is required enter a valid year.
+                                </span>
+                            </div>
+
+                            <div class="form-group col-12 mt-3">
+                                <label for="cpassword" class="form-label">Availability Starts</label>
+                                <input type="date" class="form-control" formControlName="Starts">
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['Starts'].errors?.['required'] && (uploadForm.controls['Starts'].touched || uploadForm.controls['Starts'].dirty)">
+                                    Please enter a valid date
+                                </span>
+                            </div>
+
+                            <div class="form-group col-12 mt-3">
+                                <label for="cpassword" class="form-label">Description</label>
+                                <textarea type="text" class="form-control" formControlName="Description"></textarea>
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['Description'].errors?.['required'] && (uploadForm.controls['Description'].touched || uploadForm.controls['Description'].dirty)">
+                                    Description is required
+                                </span>
+                            </div>
+
+                            <div class="form-check col-12 mt-3">
+                                <input type="checkbox" class="form-check-input" id="exampleCheck1"
+                                    formControlName="isFeatured">
+                                <label class="form-check-label" for="exampleCheck1">Is Featured</label>
+                            </div>
+
+                            <!-- <div *ngIf="videoFile && videoFile !== ''">
+                                <video width="320" height="240" controls>
+                                    <source [src]="videoFile" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div> -->
+
+                            <div class="form-group col-12 mt-3">
+                                <label for="" class="form-label">Content Path</label>
+                                <input type="file" class="form-control" (change)="videoSubmit($event)" formControlName="ContentPath">
+                                <span class="form-text text-danger"
+                                    *ngIf="uploadForm.controls['ContentPath'].errors?.['required'] && (uploadForm.controls['ContentPath'].touched || uploadForm.controls['ContentPath'].dirty)">
+                                    Content path is required
+                                </span>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <div class="form-group col-12 mt-3">
+                        <button type="submit" class="btn btn-md" [disabled]="!uploadForm.valid">Upload</button>
+                        <button type="reset" class="btn btn-secondary mx-2">Cancel</button>
+                    </div>
+                    <!-- form value : {{signupForm.value | json}}<br>
+            form valid : {{signupForm.valid | json}} -->
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCl1ApEB/mbRDs4QILo/0njwueksMfIHiSh7uXwj1C4rWC9V0vCEMcWfotuhae0s0uvJrQjBURckDYNTwY3Fog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faisalazmi\\faisal-azmi\\FaisalAzmi_3196135_FinalTest\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\NetChill.Project.DataAccess.Domains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.3\\microsoft.aspnetcore.http.features.3.1.3.nupkg.sha512",
+    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\faisalazmi\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

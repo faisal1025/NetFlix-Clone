@@ -1,0 +1,36 @@
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.deps.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.runtimeconfig.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.runtimeconfig.dev.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.AssemblyInfo.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.csproj.CopyComplete
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.genruntimeconfig.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.deps.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.runtimeconfig.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.runtimeconfig.dev.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.csproj.CopyComplete
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\DataAccess\NetChill.Project.DataAccess.Data\obj\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+<div class="contain p-4 mt-5">
+    <div class="row p-4">
+        <div class="col-lg-9 d-flex align-items-center" *ngIf="getMovieDetailResult?.VideoName">
+          
+            <video controls>
+              <source [src]="getMovieDetailResult?.VideoName" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+        
+        </div>
+        <div class="col-lg-3 ">
+          <div class="row justify-content-center">
+            <a class="btn btn-md my-3" (click)="addList(getMovieDetailResult?.Id)">+ Watchlist</a>
+            <h1 class="mt-2 mb-2">{{getMovieDetailResult?.Name}}({{getMovieDetailResult?.YoR}})</h1>
+            <img 
+            [src]="getMovieDetailResult?.ImageName" 
+            >
+            <p class="mt-3 mb-3">{{getMovieDetailResult?.Description}}</p>
+          </div>
+                <!-- <a class="btn btn-md" href="">Play</a> -->
+        </div>
+    </div>
+
+    <div class="row p-4">
+        <h5 class="text-white">Related Movies</h5>
+        <div class="rowposter mt-3 p-2">
+          <ng-container *ngFor="let th of relatedMovieResult">
+            <img [src]="th.ImageName" class="rowimg largeposter" alt="..."
+              (click)="getMovie(th.Id)">
+          </ng-container>
+        </div>
+    </div>
+</div>
+ 

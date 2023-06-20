@@ -1,0 +1,34 @@
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.deps.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.AssemblyInfo.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.csproj.CopyComplete
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.deps.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.csproj.CopyComplete
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Bussiness\NetChill.Project.Bussiness.Entities\obj\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.pdb

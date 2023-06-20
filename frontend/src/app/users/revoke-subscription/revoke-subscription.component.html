@@ -1,0 +1,27 @@
+
+<div class="container-fluid">
+    <div class="row mt-5 p-5">
+        <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Email</th>
+                <th scope="col">Role</th>
+                <th scope="col">Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let user of UserList">
+                <th scope="row">{{user.Id}}</th>
+                <td>{{user.UserName}}</td>
+                <td>{{user.UserEmail}}</td>
+                <td>{{user.Role}}</td>
+                <td>
+                    <button class="btn btn-md" (click)="onDelete(user.Id)">Delete</button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+    </div>
+</div>

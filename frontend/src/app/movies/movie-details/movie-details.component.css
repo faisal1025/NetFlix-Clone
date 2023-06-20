@@ -1,0 +1,54 @@
+img, video{
+    width: 100%;
+    height: auto;
+}
+
+h1
+{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+p{
+    color: #ffffff;
+}
+
+a{
+    background-color: #E50914;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: #E50914;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+}
+
+.rowposter{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+
+.rowposter::-webkit-scrollbar{
+    display: none;
+}
+
+.rowimg{
+    max-height: 200px;
+    object-fit: contain;
+    width: 100%;
+    box-sizing: content-box;
+    transition: transform 450ms;
+    margin-right: 7px;
+}
+
+.rowimg:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+
+.largeposter{
+    max-height: 300px;
+}

@@ -1,0 +1,79 @@
+
+<div class="row mt-5 p-5">
+    <div class="col-6 m-auto">
+    <div class="card m-auto">
+        <div class="card-header">
+        Register
+        </div>
+        <div class="card-body">
+        <form [formGroup]="signupForm" (ngSubmit)="onSubmit()">
+            <div class="form-group col-12">
+                <label for="name" class="form-label">Name</label>
+                <input type="text" class="form-control" formControlName="nameData">
+                <span class="form-text text-danger" 
+                *ngIf="signupForm.controls['nameData'].errors?.['required'] && (signupForm.controls['nameData'].touched || signupForm.controls['nameData'].dirty)"> 
+                    Name is required.
+                </span>
+            </div>
+    
+            <div class="form-group col-12 mt-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="text" class="form-control" formControlName="emailData">
+                <span class="form-text text-danger" 
+                *ngIf="signupForm.controls['emailData'].errors?.['required'] && (signupForm.controls['emailData'].touched || signupForm.controls['emailData'].dirty)"> 
+                    Email is required
+                </span>
+                <span class="form-text text-danger" 
+                *ngIf="signupForm.controls['emailData'].errors?.['email'] && (signupForm.controls['emailData'].touched || signupForm.controls['emailData'].dirty)"> 
+                    Please enter a valid email
+                </span>
+            </div>
+    
+            <div class="form-group col-12 mt-3">
+                <label for="passwrod" class="form-label">Password</label>
+                <input type="text" class="form-control" formControlName="passwordData">
+                <span class="form-text text-danger" 
+                *ngIf="signupForm.controls['passwordData'].errors?.['required'] && (signupForm.controls['passwordData'].touched || signupForm.controls['passwordData'].dirty)"> 
+                    Password is required
+                </span>
+                <span class="form-text text-danger" 
+                *ngIf="signupForm.controls['passwordData'].errors?.['minlength'] && (signupForm.controls['passwordData'].touched || signupForm.controls['passwordData'].dirty)"> 
+                    Enter Password of minimum 8 character
+                </span>
+            </div>
+    
+            <div class="form-group col-12 mt-3">
+                <label for="cpassword" class="form-label">Confirm Password</label>
+                <input type="text" class="form-control" formControlName="confirmPasswordData">
+                <span class="form-text text-danger"
+                *ngIf="signupForm.controls['confirmPasswordData'].errors?.['required'] && (signupForm.controls['confirmPasswordData'].touched || signupForm.controls['confirmPasswordData'].dirty)"> 
+                    Password is required
+                </span>
+                <span class="form-text text-danger" 
+                *ngIf="signupForm.errors?.['matched'] && (signupForm.controls['confirmPasswordData'].touched || signupForm.controls['confirmPasswordData'].dirty)"> 
+                    Passwords do not matched
+                </span>
+            </div>
+    
+            <div class="form-check col-12 mt-3">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" formControlName="checkData">
+                <label class="form-check-label" for="exampleCheck1">I agree to terms and conditions</label>
+                <span class="form-text text-danger" 
+                *ngIf="signupForm.hasError('required', 'checkData') && signupForm.controls['checkData'].touched"> 
+                    Please check the box
+                </span>
+            </div>
+    
+            <div class="form-group col-12 mt-3">
+            <button type="submit" class="btn btn-md" [disabled]="!signupForm.valid">Signup</button>
+            <button type="reset" class="btn btn-secondary mx-2">Cancel</button>
+            </div>
+            <div class="text-center mt-3">Already have account? <a [routerLink]="['/login']">Login</a></div>
+            <!-- form value : {{signupForm.value | json}}<br>
+            form valid : {{signupForm.valid | json}} -->
+        </form>
+        </div>
+    </div>
+    </div>
+</div>
+

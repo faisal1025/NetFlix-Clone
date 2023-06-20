@@ -1,0 +1,20 @@
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.deps.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.AssemblyInfo.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.deps.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb

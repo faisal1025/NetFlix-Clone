@@ -1,0 +1,192 @@
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.exe
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.deps.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.runtimeconfig.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.runtimeconfig.dev.json
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.Views.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.Views.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.AssemblyInfo.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorAssemblyInfo.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorAssemblyInfo.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\staticwebassets\NetChill.Web.API.StaticWebAssets.Manifest.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\staticwebassets\NetChill.Web.API.StaticWebAssets.xml
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\NetChill.Web.API.styles.css
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.TagHelpers.input.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.TagHelpers.output.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorCoreGenerate.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorTargetAssemblyInfo.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorTargetAssemblyInfo.cs
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.Views.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.genruntimeconfig.cache
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.csproj.CopyComplete
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\faisalazmi\Desktop\Final Project\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.exe
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.deps.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.runtimeconfig.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.runtimeconfig.dev.json
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.Views.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Web.API.Views.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Bussiness.Entities.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Data.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.DataAccess.Domains.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\bin\Debug\netcoreapp3.1\NetChill.Project.Foundation.Core.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.csproj.AssemblyReference.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.AssemblyInfoInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.AssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorAssemblyInfo.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorAssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\staticwebassets\NetChill.Web.API.StaticWebAssets.Manifest.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\staticwebassets\NetChill.Web.API.StaticWebAssets.xml
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\NetChill.Web.API.styles.css
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.TagHelpers.input.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.TagHelpers.output.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorCoreGenerate.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorTargetAssemblyInfo.cache
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.RazorTargetAssemblyInfo.cs
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.Views.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.csproj.CopyComplete
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.dll
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.pdb
+C:\Users\faisalazmi\faisal-azmi\FaisalAzmi_3196135_FinalTest\Backend\Web\NetChill.Web.API\obj\Debug\netcoreapp3.1\NetChill.Web.API.genruntimeconfig.cache

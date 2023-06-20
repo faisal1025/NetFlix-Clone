@@ -1,0 +1,89 @@
+<!-- banner start  -->
+<div class="contain-fluid mt-5 p-4">
+    <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000" *ngFor="let b of allMovies;let i=index"
+          [ngClass]="{active:i===1}">
+          <img [src]="b.ImageName" class="d-block movie-poster" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h2>{{b.Name}}</h2>
+            <p>{{b.Description}}</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </div>
+  <!-- banner end  -->
+  
+  <div class="contain mt-3 mb-5 p-4">
+  
+    
+    <div class="row">
+      <div class="row justify-content-between">
+        <div class="col-lg-auto">
+          <h5 class="text-white">Upcoming Movies</h5>
+        </div>
+        <div class="col-lg-auto">
+          <a [routerLink]="['/upcoming']">More</a>
+        </div>
+      </div>
+      <div class="rowposter mt-3 p-2">
+        <ng-container *ngFor="let t of upcomingMovies">
+          <img [src]="t.ImageName" class="rowimg largeposter" alt="..."
+            [routerLink]="['/movie',t.Id]">
+        </ng-container>
+  
+      </div>
+  
+    </div>
+  
+
+    <div class="row mt-4">
+      <div class="row justify-content-between">
+        <div class="col-lg-auto">
+          <h5 class="text-white">Featured Movies</h5>
+        </div>
+        <div class="col-lg-auto">
+          <a [routerLink]="['/featured']">More</a>
+        </div>
+      </div>
+      <div class="rowposter mt-3 p-2">
+        <ng-container *ngFor="let a of featuredMovieResult">
+          <img [src]="a.ImageName" class="rowimg largeposter" alt="..."
+            [routerLink]="['/movie',a.Id]">
+        </ng-container>
+  
+      </div>
+  
+    </div>
+  
+    
+    <div class="row mt-4">
+      <div class="row justify-content-between">
+        <div class="col-lg-auto">
+          <h5 class="text-white">New Releases</h5>
+        </div>
+        <div class="col-lg-auto">
+          <a [routerLink]="['/newReleases']">More</a>
+        </div>
+      </div>
+      <div class="rowposter mt-3 p-2">
+        <ng-container *ngFor="let a of newReleaseMovieResult">
+          <img [src]="a.ImageName" class="rowimg largeposter" alt="..."
+            [routerLink]="['/movie',a.Id]">
+        </ng-container>
+  
+      </div>
+  
+    </div>
+  
+  
+    

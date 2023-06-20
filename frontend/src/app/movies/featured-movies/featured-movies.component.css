@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+    cursor: pointer;
+}
+
+h5{
+    color: #ffffff;
+}
+
+h1{
+    color: #ffffff;
+}
+
+.btn{
+    background-color: #e50914;
+    color:#ffffff;
+}
+
+.pg-navigate{
+    position: fixed;
+    bottom: 2px;
+}

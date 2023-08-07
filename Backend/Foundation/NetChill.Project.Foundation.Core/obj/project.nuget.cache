@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "vOAv/VR4YhZupZNCPZEX/DpVje8BAwIkXM1dPWMZNjpsOPdttwIbrLZ48uIEMJzSCjSHtDCvMr0RG6+okLXgeQ==",
+  "dgSpecHash": "ST4JSMejDoUSMVhqFIM8nxTZwQGgaiHg8pBspK4KMSObXSCg9JMxNCM/cKFGnv3FCrMNNrmCoIAp+fmIeJMDHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faisalazmi\\faisal-azmi\\FaisalAzmi_3196135_FinalTest\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
+  "projectFilePath": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\nlog\\4.6.8\\nlog.4.6.8.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\nlog.extensions.logging\\1.6.2\\nlog.extensions.logging.1.6.2.nupkg.sha512",
-    "C:\\Users\\faisalazmi\\.nuget\\packages\\nlog.web.aspnetcore\\4.9.1\\nlog.web.aspnetcore.4.9.1.nupkg.sha512"
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\nlog\\4.6.8\\nlog.4.6.8.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\nlog.extensions.logging\\1.6.2\\nlog.extensions.logging.1.6.2.nupkg.sha512",
+    "C:\\Users\\faisa\\.nuget\\packages\\nlog.web.aspnetcore\\4.9.1\\nlog.web.aspnetcore.4.9.1.nupkg.sha512"
   ],
   "logs": []
 }

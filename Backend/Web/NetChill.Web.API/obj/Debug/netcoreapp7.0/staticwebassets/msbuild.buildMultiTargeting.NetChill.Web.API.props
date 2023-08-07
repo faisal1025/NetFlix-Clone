@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NetChill.Web.API.props" />
+</Project>

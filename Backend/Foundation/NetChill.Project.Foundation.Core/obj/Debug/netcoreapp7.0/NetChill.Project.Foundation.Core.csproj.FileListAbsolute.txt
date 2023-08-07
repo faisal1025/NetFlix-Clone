@@ -1,0 +1,12 @@
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.deps.json
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.dll
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\bin\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.pdb
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.csproj.AssemblyReference.cache
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.AssemblyInfoInputs.cache
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.AssemblyInfo.cs
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.csproj.CoreCompileInputs.cache
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.dll
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\refint\NetChill.Project.Foundation.Core.dll
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\NetChill.Project.Foundation.Core.pdb
+D:\Angular+ASP.NET\NetFlix-Clone\Backend\Foundation\NetChill.Project.Foundation.Core\obj\Debug\netcoreapp7.0\ref\NetChill.Project.Foundation.Core.dll

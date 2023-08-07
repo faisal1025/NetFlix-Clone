@@ -1,12 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp7.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="Migrations\20221224062256_mny-tomny-Added.cs" />
     <Compile Remove="Migrations\20221224062256_mny-tomny-Added.Designer.cs" />
+    <Compile Remove="Migrations\20230804180514_InitialCreate.cs" />
+    <Compile Remove="Migrations\20230804180514_InitialCreate.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

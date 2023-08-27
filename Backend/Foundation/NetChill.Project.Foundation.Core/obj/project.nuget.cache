@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ST4JSMejDoUSMVhqFIM8nxTZwQGgaiHg8pBspK4KMSObXSCg9JMxNCM/cKFGnv3FCrMNNrmCoIAp+fmIeJMDHw==",
+  "dgSpecHash": "xa7il4iYm2ERUP71xGYMrS4u/AMtoECRIE3prAknE8dDYUBNv2ahJia1yYBMpuASd/8Aah/VeI/DE6VqIhr6/A==",
   "success": true,
-  "projectFilePath": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
+  "projectFilePath": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
     "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",

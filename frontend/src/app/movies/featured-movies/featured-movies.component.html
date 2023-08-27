@@ -3,8 +3,8 @@
 
     <app-search-page (onSearchBoxType)="onTextChange($event)"></app-search-page>
 
-    <div class="row justify-content-center">
-        <h1 class="mb-5">Featured Movies</h1>
+    <h1 class="mb-5">Featured Movies</h1>
+    <div class="featured-container row">
         <ng-container *ngFor="let s of featuredMovies | paginate:{itemsPerPage: tableSize, currentPage: page, totalItems: count};">
             <div class="col-lg-4" *ngIf="getSearchValue === '' || s.Name.toLowerCase().includes(getSearchValue)">
                     <div class="row">
@@ -21,13 +21,13 @@
             </div>
 
         </ng-container>
-        <div class="pg-navigate">
-            <pagination-controls
-                previousLabel="Prev"
-                nextLabel="Next"
-                (pageChange)="onTableDataChange($event)"
-            >
-            </pagination-controls>
-        </div>
+    </div>
+    <div class="pg-navigate">
+        <pagination-controls
+            previousLabel="Prev"
+            nextLabel="Next"
+            (pageChange)="onTableDataChange($event)"
+        >
+        </pagination-controls>
     </div>
 </div>

@@ -1,300 +1,148 @@
 {
   "Files": [
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\css\\site.css",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\favicon.ico",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\js\\site.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\15c94d38-bf08-4867-8567-95a759b9e01b_demo12.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\15c94d38-bf08-4867-8567-95a759b9e01b_demo12.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\24767437-5000-457c-8971-95655ab7fd35_demo1.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\24767437-5000-457c-8971-95655ab7fd35_demo1.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\385055f3-be62-4f2b-8a4c-b9371cfeacc7_demo4.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\385055f3-be62-4f2b-8a4c-b9371cfeacc7_demo4.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\39e1552f-603f-47c2-95d6-196193ca5f9c_demo11.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\39e1552f-603f-47c2-95d6-196193ca5f9c_demo11.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\3b253553-0b84-470c-ae6d-4b973ae3c1cb_demo18.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\3b253553-0b84-470c-ae6d-4b973ae3c1cb_demo18.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\408d2ef0-8da2-4f20-aa21-e4d2fc799672_demo14.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\408d2ef0-8da2-4f20-aa21-e4d2fc799672_demo14.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\686f9069-01a8-4acd-85f8-0e770941f58f_demo15.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\686f9069-01a8-4acd-85f8-0e770941f58f_demo15.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\6d83e366-4930-4f0d-8a8e-928b4ad6ff4b_demo6.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\6d83e366-4930-4f0d-8a8e-928b4ad6ff4b_demo6.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\6fdbc9af-e3e2-4005-82c7-918c15da8518_demo2.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\6fdbc9af-e3e2-4005-82c7-918c15da8518_demo2.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\73a1c9d3-18db-44fb-a25d-b44a8a478f8f_testPoster.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\73a1c9d3-18db-44fb-a25d-b44a8a478f8f_testPoster.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\86bea8ee-dd1f-45b9-907e-8320b59a0eb9_demo3.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\86bea8ee-dd1f-45b9-907e-8320b59a0eb9_demo3.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\9028a09a-a152-4ab9-8c16-23b7e1a775b3_demo5.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\9028a09a-a152-4ab9-8c16-23b7e1a775b3_demo5.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\a4bd87ee-7219-4851-a560-811051a91268_demo17.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\a4bd87ee-7219-4851-a560-811051a91268_demo17.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\d808d2aa-cf97-4303-b2bb-81f89a7a2fdb_demo7.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\d808d2aa-cf97-4303-b2bb-81f89a7a2fdb_demo7.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\df6649e6-a4b5-4173-8316-a86d5525271c_demo10.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\df6649e6-a4b5-4173-8316-a86d5525271c_demo10.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\eb9f39b8-4faf-441a-9242-3fdd65595942_demo13.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\eb9f39b8-4faf-441a-9242-3fdd65595942_demo13.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\f8405862-42c7-4a44-bd88-42b28db187ca_demo9.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\f8405862-42c7-4a44-bd88-42b28db187ca_demo9.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\f8eebbea-9eca-4b2f-b42a-535eeda3672f_demo8.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\f8eebbea-9eca-4b2f-b42a-535eeda3672f_demo8.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\fda1fcbc-d540-4a0b-88b1-38ca38d11f8f_demo16.jpeg",
-      "PackagePath": "staticwebassets\\movies\\poster\\fda1fcbc-d540-4a0b-88b1-38ca38d11f8f_demo16.jpeg"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\0cddf9af-fecc-494a-b65d-393a65dca290_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\0cddf9af-fecc-494a-b65d-393a65dca290_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\0d1b62a0-9a6c-4764-9849-e9a14f153b78_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\0d1b62a0-9a6c-4764-9849-e9a14f153b78_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\21f08316-6ee9-4130-8946-a7d04b21a4a2_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\21f08316-6ee9-4130-8946-a7d04b21a4a2_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\339aa606-aff0-4731-9624-8df7d38a97a3_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\339aa606-aff0-4731-9624-8df7d38a97a3_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\3db3ed81-ff7e-4393-bb83-d8a73430906b_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\3db3ed81-ff7e-4393-bb83-d8a73430906b_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\44b7b77b-6968-48f2-a82a-4167e428874e_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\44b7b77b-6968-48f2-a82a-4167e428874e_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\51e4f9a0-1e4e-406d-9896-93222a421d7d_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\51e4f9a0-1e4e-406d-9896-93222a421d7d_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\64632a1f-5155-45cd-aa1f-7d8f3cd0e808_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\64632a1f-5155-45cd-aa1f-7d8f3cd0e808_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\6b01c9dc-2170-49c5-ac1a-ac5762f366f2_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\6b01c9dc-2170-49c5-ac1a-ac5762f366f2_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\724bbe83-35bb-4e8e-b88c-4c4d33b6d921_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\724bbe83-35bb-4e8e-b88c-4c4d33b6d921_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\7ff8f982-cdf6-4074-8afd-0dda0b508b21_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\7ff8f982-cdf6-4074-8afd-0dda0b508b21_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\88fcb6fc-7d25-4e2b-922c-b9e19d58be15_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\88fcb6fc-7d25-4e2b-922c-b9e19d58be15_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\8a34a3bc-5507-46a7-9304-8b2d3e13126b_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\8a34a3bc-5507-46a7-9304-8b2d3e13126b_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\97a20798-bbb3-4653-a0ce-d5251821bb67_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\97a20798-bbb3-4653-a0ce-d5251821bb67_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\a5885360-c567-4425-9549-8beff2fcb15c_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\a5885360-c567-4425-9549-8beff2fcb15c_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\ab3e1175-12a2-4c05-9a57-3c599b8e7049_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\ab3e1175-12a2-4c05-9a57-3c599b8e7049_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\be182961-c825-4fa3-82e5-cc4ad3499274_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\be182961-c825-4fa3-82e5-cc4ad3499274_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\e5383247-b87e-40f3-b87c-e371618ba59a_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\e5383247-b87e-40f3-b87c-e371618ba59a_testVideo.mp4"
-    },
-    {
-      "Id": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\eb9579e0-640d-407a-bcdb-b5b463572245_testVideo.mp4",
-      "PackagePath": "staticwebassets\\movies\\video\\eb9579e0-640d-407a-bcdb-b5b463572245_testVideo.mp4"
     },
     {
       "Id": "obj\\Debug\\netcoreapp7.0\\staticwebassets\\msbuild.NetChill.Web.API.Microsoft.AspNetCore.StaticWebAssets.props",

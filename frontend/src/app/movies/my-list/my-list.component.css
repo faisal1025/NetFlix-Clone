@@ -5,7 +5,13 @@ img{
     width: 100%;
     height: auto;
 }
+
+.my-list-container{
+    min-height: 100vh;
+}
+
 .pg-navigate{
-    position: fixed;
-    bottom: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

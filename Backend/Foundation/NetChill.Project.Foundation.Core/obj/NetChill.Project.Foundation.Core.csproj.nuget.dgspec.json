@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj": {}
+    "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj": {}
   },
   "projects": {
-    "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj": {
+    "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
+        "projectUniqueName": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
         "projectName": "NetChill.Project.Foundation.Core",
-        "projectPath": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
+        "projectPath": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\NetChill.Project.Foundation.Core.csproj",
         "packagesPath": "C:\\Users\\faisa\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\obj\\",
+        "outputPath": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Foundation\\NetChill.Project.Foundation.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\faisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

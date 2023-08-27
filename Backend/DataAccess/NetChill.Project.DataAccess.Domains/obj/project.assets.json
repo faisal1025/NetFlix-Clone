@@ -116,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\NetChill.Project.DataAccess.Domains.csproj",
+      "projectUniqueName": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\NetChill.Project.DataAccess.Domains.csproj",
       "projectName": "NetChill.Project.DataAccess.Domains",
-      "projectPath": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\NetChill.Project.DataAccess.Domains.csproj",
+      "projectPath": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\NetChill.Project.DataAccess.Domains.csproj",
       "packagesPath": "C:\\Users\\faisa\\.nuget\\packages\\",
-      "outputPath": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\obj\\",
+      "outputPath": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,7 +170,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

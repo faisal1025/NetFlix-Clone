@@ -10,3 +10,15 @@ D:\Angular+ASP.NET\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.
 D:\Angular+ASP.NET\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\refint\NetChill.Project.DataAccess.Domains.dll
 D:\Angular+ASP.NET\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.pdb
 D:\Angular+ASP.NET\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\ref\NetChill.Project.DataAccess.Domains.dll
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.deps.json
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.dll
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\bin\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.pdb
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.csproj.AssemblyReference.cache
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.AssemblyInfoInputs.cache
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.AssemblyInfo.cs
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.csproj.CoreCompileInputs.cache
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.dll
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\refint\NetChill.Project.DataAccess.Domains.dll
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\NetChill.Project.DataAccess.Domains.pdb
+D:\Angular+.Net\NetFlix-Clone\Backend\DataAccess\NetChill.Project.DataAccess.Domains\obj\Debug\netcoreapp7.0\ref\NetChill.Project.DataAccess.Domains.dll

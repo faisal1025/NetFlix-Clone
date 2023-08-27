@@ -16,7 +16,12 @@ h1{
     color:#ffffff;
 }
 
+.featured-container{
+    min-height: 100vh;
+}
+
 .pg-navigate{
-    position: fixed;
-    bottom: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

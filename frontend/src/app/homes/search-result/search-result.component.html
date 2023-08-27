@@ -3,14 +3,14 @@
 
     <app-search-page (onSearchBoxType)="onTextChange($event)"></app-search-page>
 
-    <div class="row">
-        <h1 class="mb-5">Search Movies</h1>
+    <h1 class="mb-5">Search Movies</h1>
+    <div class="search-container row">
         <ng-container *ngFor="let s of allMovies">
-            <div class="col-lg-4" *ngIf="s.Name.toLowerCase().includes(getSearchValue)">
+            <div class="col-lg-4 h-auto" *ngIf="s.Name.toLowerCase().includes(getSearchValue)">
                     <div class="row">
-                        <div class="col-lg-3 mt-4 mb-4" *ngIf="s.MoviePoster">
+                        <div class="col-lg-3 mt-4 mb-4" *ngIf="s.ImageName">
                                 <img
-                                [src]="s.MoviePoster" 
+                                [src]="s.ImageName" 
                                 [routerLink]="['/movie',s.Id]"    
                                 >
                         </div>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9pE0IJUZ3b6kg9SscewQtJoust3AWzsmXkjR9uh235D2bxVgyt7VZAc6Mv230xqJhlaJnFHm7PaNXE/ahqnm/w==",
+  "dgSpecHash": "Nx6DZRgGKbR3D6Z3LHpWIreNEmBSsxGLuV3NCUFpyj8PNM6i3mwGXjIr75pobx1+RHiXAoLmszM4gF41i5ckmQ==",
   "success": true,
-  "projectFilePath": "D:\\Angular+ASP.NET\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\NetChill.Project.DataAccess.Domains.csproj",
+  "projectFilePath": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\DataAccess\\NetChill.Project.DataAccess.Domains\\NetChill.Project.DataAccess.Domains.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faisa\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.3\\microsoft.aspnetcore.http.features.3.1.3.nupkg.sha512",
     "C:\\Users\\faisa\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",

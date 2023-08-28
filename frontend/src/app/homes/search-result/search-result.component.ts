@@ -13,16 +13,18 @@ export class SearchResultComponent {
   constructor(private movieApi:MovieApiService){}
 
   ngOnInit():void{
-    this.movieApi.getAllMoviesApiData().subscribe((res)=>{
-      this.allMovies = res.Data;
-      console.log(this.allMovies);
-      
-    })
+  
   }
-
-
 
   onTextChange(event:string){
     this.getSearchValue = event;
+   
+    this.movieApi.getSearchedMoviesApiData(this.getSearchValue).subscribe((res)=>{
+      this.allMovies = res.Data;
+      console.log(this.allMovies);
+      
+    }, (err)=>{
+      console.log(err);
+    });
   }
 }

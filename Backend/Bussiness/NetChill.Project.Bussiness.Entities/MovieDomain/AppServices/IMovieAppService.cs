@@ -29,5 +29,7 @@ namespace NetChill.Project.MovieDomains.AppServices
 
         Task<OperationResult<IList<MovieDomain>>> GetMovieList(int Id);
 
+        Task<OperationResult<IList<MovieDTO>>> SearchedMovie(string value);
+
     }
 }

@@ -2,24 +2,32 @@
 <div class="container-fluid">
 
     <app-search-page (onSearchBoxType)="onTextChange($event)"></app-search-page>
-
-    <h1 class="mb-5">Search Movies</h1>
-    <div class="search-container row">
-        <ng-container *ngFor="let s of allMovies">
-            <div class="col-lg-4 h-auto" *ngIf="s.Name.toLowerCase().includes(getSearchValue)">
+    <div class="search-container">
+        <div class="row" *ngIf="allMovies?.length > 0; else elseBlock">
+            <ng-container *ngFor="let s of allMovies">
+                <div class="col-lg-4 h-auto">
                     <div class="row">
-                        <div class="col-lg-3 mt-4 mb-4" *ngIf="s.ImageName">
+                            <div class="col-lg-3 mt-4 mb-4" *ngIf="s.ImageName">
                                 <img
-                                [src]="s.ImageName" 
-                                [routerLink]="['/movie',s.Id]"    
-                                >
-                        </div>
-                        <div class="col-lg-9 mt-4 mb-4">
-                                <h5>{{s.Name}}</h5>
+                                    [src]="s.ImageName" 
+                                    [routerLink]="['/movie',s.Id]"    
+                                    >
+                                </div>
+                                <div class="col-lg-9 mt-4 mb-4">
+                                    <h5>{{s.Name}}</h5>
+                                </div>
                         </div>
                     </div>
+            
+            </ng-container>
+        </div>
+        <ng-template #elseBlock>
+            <div class="row justify-content-center align-items-center">
+               No Movies Found
             </div>
-
-        </ng-container>
+        </ng-template>
+        <!-- <div *ngIf="allMovies; else elseBlock" class="row">
+        </div>
+        <ng-template #elseBlock>Content to render when condition is false.</ng-template> -->
     </div>
 </div>

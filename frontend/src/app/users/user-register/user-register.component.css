@@ -10,3 +10,8 @@ span{
 input.ng-invalid.ng-touched{
     border:2px solid red;
 }
+
+.register-container{
+    background-image: url("../../../assets/images/backgroung.jpg");
+    min-height: 100vh;
+}

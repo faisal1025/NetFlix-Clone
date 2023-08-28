@@ -178,6 +178,21 @@ namespace NetChill.Project.MovieDomains.AppServices
             Message message = new Message(String.Empty, "return successfully");
             return new OperationResult<IList<MovieDomain>>(movieDomain, true, message);
         }
-      
+
+        public async Task<OperationResult<IList<MovieDTO>>> SearchedMovie(string value)
+        {
+            try
+            {
+                var movies = await UserRepository.SearchMovie(value);
+                var moviedto = this.mapper.Map<IList<MovieDomain>, IList<MovieDTO>>(movies).ToList();
+                Message message = new Message(String.Empty, "return successfully");
+                return new OperationResult<IList<MovieDTO>> ( moviedto, true, message );
+            }
+            catch (Exception)
+            {
+                Message message = new Message(String.Empty, "Some thing went wrong");
+                return new OperationResult<IList<MovieDTO>> ( null, true, message );
+            }
+        }
     }
 }

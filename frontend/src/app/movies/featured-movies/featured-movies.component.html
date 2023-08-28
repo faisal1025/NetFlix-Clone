@@ -4,23 +4,25 @@
     <app-search-page (onSearchBoxType)="onTextChange($event)"></app-search-page>
 
     <h1 class="mb-5">Featured Movies</h1>
-    <div class="featured-container row">
-        <ng-container *ngFor="let s of featuredMovies | paginate:{itemsPerPage: tableSize, currentPage: page, totalItems: count};">
-            <div class="col-lg-4" *ngIf="getSearchValue === '' || s.Name.toLowerCase().includes(getSearchValue)">
-                    <div class="row">
-                        <div class="col-lg-3 mt-4 mb-4" *ngIf="s.ImageName">
-                                <img
-                                [src]="s.ImageName" 
-                                [routerLink]="['/movie',s.Id]"    
-                                >
+    <div class="featured-container">
+        <div class="row">
+            <ng-container *ngFor="let s of featuredMovies | paginate:{itemsPerPage: tableSize, currentPage: page, totalItems: count};">
+                <div class="col-lg-4" *ngIf="getSearchValue === '' || s.Name.toLowerCase().includes(getSearchValue)">
+                        <div class="row">
+                            <div class="col-lg-3 mt-4 mb-4" *ngIf="s.ImageName">
+                                    <img
+                                    [src]="s.ImageName" 
+                                    [routerLink]="['/movie',s.Id]"    
+                                    >
+                            </div>
+                            <div class="col-lg-9 mt-4 mb-4">
+                                    <h5>{{s.Name}}</h5>
+                            </div>
                         </div>
-                        <div class="col-lg-9 mt-4 mb-4">
-                                <h5>{{s.Name}}</h5>
-                        </div>
-                    </div>
-            </div>
-
-        </ng-container>
+                </div>
+    
+            </ng-container>
+        </div>
     </div>
     <div class="pg-navigate">
         <pagination-controls

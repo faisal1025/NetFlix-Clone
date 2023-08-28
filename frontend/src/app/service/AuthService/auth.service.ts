@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http'
+import { HttpClient, HttpHeaders } from '@angular/common/http'
 import { BehaviorSubject, Observable } from 'rxjs';
 import { JwtHelperService } from '@auth0/angular-jwt';
 
@@ -64,10 +64,18 @@ export class AuthService {
   }
 
   getAllUsers():Observable<any>{
-    return this.http.get(`${this.baseUrl}/getUsers`);
+    return this.http.get(`${this.baseUrl}/getUsers`, {
+      headers: new HttpHeaders({
+        "Authorization": `bearer ${localStorage.getItem('tokenAccess')}`
+      })
+    });
   }
 
   deleteUser(data:any) : Observable<any>{
-    return this.http.delete(`${this.baseUrl}/delete/${data}`);
+    return this.http.delete(`${this.baseUrl}/delete/${data}`, {
+      headers: new HttpHeaders({
+        "Authorization": `bearer ${localStorage.getItem('tokenAccess')}`
+      })
+    });
   }
 }

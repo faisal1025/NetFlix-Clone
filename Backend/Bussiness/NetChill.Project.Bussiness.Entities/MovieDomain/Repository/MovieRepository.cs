@@ -31,5 +31,10 @@ namespace NetChill.Project.Bussiness.Entities.MovieDomains.Repository
         {
             return await context.Set<UserDomain>().Include(x => x.Movies).ThenInclude(y => y.Movie).FirstOrDefaultAsync(predicate);
         }
+
+        public async Task<IList<MovieDomain>> SearchMovie(string value)
+        {
+            return await context.Set<MovieDomain>().Where<MovieDomain>(x => x.Name.Contains(value)).ToListAsync<MovieDomain>();
+        }
     }
 }

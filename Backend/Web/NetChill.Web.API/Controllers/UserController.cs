@@ -61,8 +61,8 @@ namespace NetChill.Web.API.Controllers
             }
         }
 
-     
-        
+
+        [Authorize(Roles = "Admin")]
         [HttpGet("getUsers")]
         public IActionResult GetUsers()
         {
@@ -71,6 +71,7 @@ namespace NetChill.Web.API.Controllers
             return Ok(Json);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpDelete("delete/{id}")]
         public IActionResult DeleteUser(int id)
         {

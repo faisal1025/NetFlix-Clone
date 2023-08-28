@@ -6,3 +6,7 @@ th, td{
     color: #ffffff;
     background-color: #e50914;
 }
+
+.users-container{
+    min-height: 100vh;
+}

@@ -14,5 +14,7 @@ namespace NetChill.Project.Bussiness.Entities.MovieDomains.Repository
         MovieUser FindMovie(Expression<Func<MovieUser, bool>> predicate);
 
         Task<UserDomain> GetMovieUser(Expression<Func<UserDomain, bool>> predicate);
+
+        Task<IList<MovieDomain>> SearchMovie(string value);
     }
 }

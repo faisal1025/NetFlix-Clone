@@ -35,6 +35,7 @@ namespace NetChill.Web.API.Controllers
         }
 
        
+        [Authorize(Roles = "Admin")]
         [HttpPost("send")]
         [Consumes("multipart/form-data")]
         public async Task<IActionResult> saveMovie([FromForm] MovieDTO movie)
@@ -90,6 +91,7 @@ namespace NetChill.Web.API.Controllers
             return Ok(Json);
         }
 
+        [Authorize]
         [HttpGet("upcoming")]
         public IActionResult getUpcomingMovies()
         {
@@ -98,6 +100,8 @@ namespace NetChill.Web.API.Controllers
             return Ok(Json);
         }
 
+
+        [Authorize]
         [HttpGet("newRelease")]
         public IActionResult getNewReleaseMovies()
         {
@@ -105,7 +109,7 @@ namespace NetChill.Web.API.Controllers
             var Json = JsonConvert.SerializeObject(result);
             return Ok(Json);
         }
-
+        [Authorize]
         [HttpGet("featured")]
         public IActionResult getFeaturedMovies()
         {
@@ -114,6 +118,7 @@ namespace NetChill.Web.API.Controllers
             return Ok(Json);
         }
 
+        [Authorize]
         [HttpGet("movie/{id}")]
         public IActionResult getMovie(int id)
         {
@@ -126,6 +131,7 @@ namespace NetChill.Web.API.Controllers
             return Ok(Json);
         }
 
+        [Authorize]
         [HttpGet("myList/{id}")]
         public async Task<IActionResult> getList(int id)
         {
@@ -134,12 +140,21 @@ namespace NetChill.Web.API.Controllers
             return Ok(Json);
         }
 
+        [Authorize]
         [HttpPost("addList")]
         public IActionResult addList(MovieUserDTO movieUser)
         {
             var result = movieAppServive.AddMovieToList(movieUser);
             var Json = JsonConvert.SerializeObject(result);
             return Ok(Json);
+        }
+
+        [HttpGet("search/{value?}")]
+        public async Task<IActionResult> searchMovie(string value = "")
+        {
+            var movies = await movieAppServive.SearchedMovie(value);
+            var Json = JsonConvert.SerializeObject(movies);
+            return Ok(Json);    
         }
     }
 }

@@ -592,6 +592,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\024d6973-b4bc-47df-a9b5-a9eb3d1d2a00_Header.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\0b060cc6-8319-4cf4-b300-2aba86453713_theGreenGirl.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/poster/0b060cc6-8319-4cf4-b300-2aba86453713_theGreenGirl.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\0b060cc6-8319-4cf4-b300-2aba86453713_theGreenGirl.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\214d2abe-3f6e-485b-9545-3392000b2e68_aWomenInLove.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>NetChill.Web.API</SourceId>
@@ -608,6 +624,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\214d2abe-3f6e-485b-9545-3392000b2e68_aWomenInLove.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\25d6cae6-a6fb-43e8-aec0-1f46231303cf_After.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/poster/25d6cae6-a6fb-43e8-aec0-1f46231303cf_After.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\25d6cae6-a6fb-43e8-aec0-1f46231303cf_After.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\3d428739-52ee-48f9-b6ff-43e567f6ed26_theGreenGirl.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>NetChill.Web.API</SourceId>
@@ -623,6 +655,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\3d428739-52ee-48f9-b6ff-43e567f6ed26_theGreenGirl.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\60d42513-5e5e-4bdd-a69a-ea52fbc7a569_aWomenInLove.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/poster/60d42513-5e5e-4bdd-a69a-ea52fbc7a569_aWomenInLove.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\60d42513-5e5e-4bdd-a69a-ea52fbc7a569_aWomenInLove.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\85fdb132-65b7-4ea1-bce2-a022d44f90ec_cityNight.jpg))">
       <SourceType>Package</SourceType>
@@ -655,6 +703,70 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\d69a5f38-c1d3-4645-b398-d084f257360e_After.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\f7ee589e-adc8-40dc-8b4d-b5bfc8200c4f_cityNight.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/poster/f7ee589e-adc8-40dc-8b4d-b5bfc8200c4f_cityNight.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\poster\f7ee589e-adc8-40dc-8b4d-b5bfc8200c4f_cityNight.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\0be918ef-3c34-4088-9f38-c443cd6ca4d2_SampleVideo_1280x720_1mb.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/video/0be918ef-3c34-4088-9f38-c443cd6ca4d2_SampleVideo_1280x720_1mb.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\0be918ef-3c34-4088-9f38-c443cd6ca4d2_SampleVideo_1280x720_1mb.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\152709a0-b005-4465-b7b2-ec002057f4a6_SampleVideo_1280x720_1mb.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/video/152709a0-b005-4465-b7b2-ec002057f4a6_SampleVideo_1280x720_1mb.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\152709a0-b005-4465-b7b2-ec002057f4a6_SampleVideo_1280x720_1mb.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\4978bfe4-04a2-4f4b-9da7-3192f256a79b_SampleVideo_1280x720_1mb.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/video/4978bfe4-04a2-4f4b-9da7-3192f256a79b_SampleVideo_1280x720_1mb.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\4978bfe4-04a2-4f4b-9da7-3192f256a79b_SampleVideo_1280x720_1mb.mp4))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\5763be4d-4909-4ea6-9e40-d0acef6b81aa_SampleVideo_1280x720_1mb.mp4))">
       <SourceType>Package</SourceType>
@@ -703,6 +815,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\6389bc19-da52-41c6-85f9-5a69c55be7fb_SampleVideo_1280x720_1mb.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\7d1cb926-7591-4241-a3d8-1558debf1fc3_SampleVideo_1280x720_1mb.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>NetChill.Web.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/NetChill.Web.API</BasePath>
+      <RelativePath>movies/video/7d1cb926-7591-4241-a3d8-1558debf1fc3_SampleVideo_1280x720_1mb.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\7d1cb926-7591-4241-a3d8-1558debf1fc3_SampleVideo_1280x720_1mb.mp4))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\movies\video\84dfae1f-2be4-4289-9a01-a58f24884d81_SampleVideo_1280x720_1mb.mp4))">
       <SourceType>Package</SourceType>

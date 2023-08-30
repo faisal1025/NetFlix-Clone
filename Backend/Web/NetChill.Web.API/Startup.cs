@@ -23,6 +23,7 @@ using NetChill.Project.MovieDomains.Configuration;
 using NetChill.Project.MovieDomains.AppServices.Mapper;
 using NetChill.Project.MovieDomains.AppServices;
 using System.Data.SqlClient;
+using NetChill.Project.Bussiness.Entities.Services.EmailServices;
 
 namespace NetChill.Web.API
 {
@@ -70,6 +71,8 @@ namespace NetChill.Web.API
             services.AddSingleton<IUserAppService, UserAppService>();
             services.AddSingleton<IExceptionManager, ExceptionManager>();
             services.AddSingleton<ILogger, Logger>();
+            services.Configure<EmailConf>(Configuration.GetSection("SMTPConfig"));
+            services.AddScoped<IEmailService, EmailService>();
             services.AddDbContext<NetChillDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LocConnectionString")), ServiceLifetime.Singleton);
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddDistributedMemoryCache();

@@ -78,4 +78,10 @@ export class AuthService {
       })
     });
   }
+
+  sendRecoveryEmail(data:string): Observable<any>{
+    return this.http.post(`${this.baseUrl}/sendRecoveryEmail`, {
+      UserEmail: data
+    });
+  }
 }

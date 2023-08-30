@@ -11,6 +11,7 @@ namespace NetChill.Project.UserDomains.AppServices
         OperationResult<UserDTO> Create(UserDTO item);
         OperationResult<IEnumerable<UserDTO>> GetAllUsers();
         OperationResult<UserDTO> GetUserByID(int id);
+        UserDTO GetUserByEmail(string email);
         bool Find(UserDTO item);
         public OperationResult<UserDTO> Login(UserDTO item);
         public OperationResult<UserDTO> DeleteUser(int id);

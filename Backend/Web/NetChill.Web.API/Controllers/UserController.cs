@@ -2,6 +2,10 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
+using MimeKit;
+using MailKit.Net.Smtp;
+using NetChill.Project.Bussiness.Entities.Services.EmailServices;
+using NetChill.Project.Bussiness.Entities.UserDomains.AppServices.DTOs;
 using NetChill.Project.Foundation.Core.ValueObjects;
 using NetChill.Project.UserDomains.AppServices;
 using NetChill.Project.UserDomains.AppServices.DTOs;
@@ -20,10 +24,12 @@ namespace NetChill.Web.API.Controllers
     {
         private readonly IUserAppService userAppService;
         private readonly IConfiguration config;
-        public UserController(IUserAppService userAppService, IConfiguration config)
+        private readonly IEmailService emailService;
+        public UserController(IUserAppService userAppService, IConfiguration config, IEmailService emailService)
         {
             this.userAppService = userAppService;
             this.config = config;
+            this.emailService = emailService;
         }
 
         // api/User/register
@@ -88,6 +94,42 @@ namespace NetChill.Web.API.Controllers
             else
             {
                 Message message = new Message(code: "false", text: "User not deleted something went wrong!");
+                var Json = JsonConvert.SerializeObject(message);
+                return Ok(Json);
+            }
+        }
+
+        [HttpPost("sendRecoveryEmail")]
+        public async Task<IActionResult> SendRecoveryEmail(UserDTO userDTO)
+        {
+            try
+            {
+                var user = userAppService.GetUserByEmail(userDTO.UserEmail);
+                if(user != null)
+                {
+                    var token = new JwtService(config).GenerateToken(user.Id.ToString(), user.UserName, user.UserEmail, user.Role);
+                    var appDomain = config.GetSection("Application").GetSection("AppDomain").Value;
+                    var resetLink = config.GetSection("Application").GetSection("ResetLink").Value;
+                    SendEmailOptions sendEmailOptions = new SendEmailOptions()
+                    {
+                        SendTo = new List<string>() { userDTO.UserEmail }
+                    };
+                    await emailService.SendRecoveryEmail(sendEmailOptions);
+                    Message message = new Message(code: "true", text: "A reset email is sent to your email if email is registered");
+                    var Json = JsonConvert.SerializeObject(message);
+                    return Ok(Json);
+                }
+                else
+                {
+                    Message message = new Message(code: "false", text: "Email is not registered");
+                    var Json = JsonConvert.SerializeObject(message);
+                    return StatusCode(StatusCodes.Status204NoContent, Json);
+                }
+            }
+            catch (Exception)
+            {
+
+                Message message = new Message(code: "false", text: "Something Went Wrong, Try Again");
                 var Json = JsonConvert.SerializeObject(message);
                 return Ok(Json);
             }

@@ -6,10 +6,16 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="MailKit" Version="4.1.0" />
+    <PackageReference Include="MimeKit" Version="4.1.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\DataAccess\NetChill.Project.DataAccess.Data\NetChill.Project.DataAccess.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\EmailServices\EmailTemplates\" />
   </ItemGroup>
 
 </Project>

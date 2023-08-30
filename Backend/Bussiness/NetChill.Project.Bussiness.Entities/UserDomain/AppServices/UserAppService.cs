@@ -172,5 +172,17 @@ namespace NetChill.Project.UserDomains.AppServices
             var result = this.GetUserByID(id);
             return result;
         }
+
+        public UserDTO GetUserByEmail(string email)
+        {
+            var user = UserRepository.Find(x => x.UserEmail == email);
+            UserDTO userDTO = null;
+            if (user != null)
+            {
+                userDTO = mapper.Map<UserDomain, UserDTO>(user);
+            }
+            return userDTO;
+
+        }
     }
 }

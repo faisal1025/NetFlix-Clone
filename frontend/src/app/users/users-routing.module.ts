@@ -6,10 +6,12 @@ import { RevokeSubscriptionComponent } from './revoke-subscription/revoke-subscr
 import { UserLoginComponent } from './user-login/user-login.component';
 import { UserLogoutComponent } from './user-logout/user-logout.component';
 import { UserRegisterComponent } from './user-register/user-register.component';
+import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 
 const userRoutes: Routes = [
   {path:"register", component:UserRegisterComponent},
   {path:"login", component:UserLoginComponent},
+  {path:"forgotPassword", component:ForgotPasswordComponent},
   {path:"logout", component:UserLogoutComponent, canActivate:[AuthGuard]},
   {path:"revokeSubscription", component:RevokeSubscriptionComponent, canActivate:[AuthGuard, AdminGuard]}
 ];

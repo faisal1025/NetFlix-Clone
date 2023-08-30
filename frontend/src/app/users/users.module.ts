@@ -6,6 +6,7 @@ import { UsersRoutingModule } from './users-routing.module';
 import { ReactiveFormsModule } from '@angular/forms';
 import { UserLogoutComponent } from './user-logout/user-logout.component';
 import { RevokeSubscriptionComponent } from './revoke-subscription/revoke-subscription.component';
+import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 
 
 
@@ -14,7 +15,8 @@ import { RevokeSubscriptionComponent } from './revoke-subscription/revoke-subscr
     UserLoginComponent,
     UserRegisterComponent,
     UserLogoutComponent,
-    RevokeSubscriptionComponent
+    RevokeSubscriptionComponent,
+    ForgotPasswordComponent
   ],
   imports: [
     CommonModule,

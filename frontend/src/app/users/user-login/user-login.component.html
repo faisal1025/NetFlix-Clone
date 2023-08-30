@@ -24,7 +24,7 @@
                 </div>
         
                 <div class="form-group col-12 mt-3">
-                    <label for="passwrod" class="form-label">Password</label>
+                    <label for="password" class="form-label">Password</label>
                     <input type="password" class="form-control" formControlName="passwordData">
                     <span class="form-text text-danger"
                     *ngIf="loginForm.controls['passwordData'].errors?.['required'] && (loginForm.controls['passwordData'].touched || loginForm.controls['passwordData'].dirty)"> 
@@ -40,6 +40,7 @@
                 <button type="submit" class="btn btn-md" [disabled]="!loginForm.valid">Login</button>
                 <button type="reset" class="btn btn-secondary mx-2">Cancel</button>
                 </div>
+                <div class="text-center mt-3"><a [routerLink]="['/forgotPassword']">forgot password</a></div>
                 <div class="text-center mt-3">Don't have account ? <a [routerLink]="['/register']">create account</a></div>
                 <!-- loginForm value : {{loginForm.value | json}} <br>
                 loginForm valid : {{loginForm.valid | json}} -->

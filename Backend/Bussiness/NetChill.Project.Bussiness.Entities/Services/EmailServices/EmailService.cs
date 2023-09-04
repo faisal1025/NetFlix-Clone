@@ -9,6 +9,7 @@ using System.Net;
 using MailKit.Net.Smtp;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.IdentityModel.Tokens;
 
 namespace NetChill.Project.Bussiness.Entities.Services.EmailServices
 {
@@ -22,8 +23,8 @@ namespace NetChill.Project.Bussiness.Entities.Services.EmailServices
         }
         public async Task SendRecoveryEmail(SendEmailOptions sendEmailOptions)
         {
-            sendEmailOptions.Subject = "Password Recovery Email";
-            string body = getMailBody("ResetPasswordTemplate");
+            sendEmailOptions.Subject = UpdatePlaceHolder("Hi, {{UserName}} This is your Password Recovery Email", sendEmailOptions.Placeholder);
+            string body = UpdatePlaceHolder(getMailBody("ResetPasswordTemplate"), sendEmailOptions.Placeholder);
             sendEmailOptions.Body = body;
             await EmailSendService(sendEmailOptions);
         }
@@ -52,6 +53,17 @@ namespace NetChill.Project.Bussiness.Entities.Services.EmailServices
             string path = string.Format(templatePath, templateName);
             string body = File.ReadAllText(path);
             return body;
+        }
+        private string UpdatePlaceHolder(string text, IList<KeyValuePair<string, string>> values)
+        {
+            if (!string.IsNullOrEmpty(text) && values != null)
+            {
+                foreach (var item in values)
+                {
+                    text = text.Replace(item.Key, item.Value);
+                }
+            }
+            return text;
         }
     }
 }

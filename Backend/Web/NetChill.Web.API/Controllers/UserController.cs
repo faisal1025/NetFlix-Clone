@@ -112,7 +112,11 @@ namespace NetChill.Web.API.Controllers
                     var resetLink = config.GetSection("Application").GetSection("ResetLink").Value;
                     SendEmailOptions sendEmailOptions = new SendEmailOptions()
                     {
-                        SendTo = new List<string>() { userDTO.UserEmail }
+                        SendTo = new List<string>() { userDTO.UserEmail },
+                        Placeholder = new List<KeyValuePair<string, string>>() { 
+                            new KeyValuePair<string, string>("{{UserName}}", user.UserName),
+                            new KeyValuePair<string, string>("{{Link}}", string.Format(appDomain+resetLink, user.Id, token.ToString()))  
+                        },
                     };
                     await emailService.SendRecoveryEmail(sendEmailOptions);
                     Message message = new Message(code: "true", text: "A reset email is sent to your email if email is registered");

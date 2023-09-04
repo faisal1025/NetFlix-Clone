@@ -7,6 +7,7 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { UserLogoutComponent } from './user-logout/user-logout.component';
 import { RevokeSubscriptionComponent } from './revoke-subscription/revoke-subscription.component';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
+import { ResetPasswordComponent } from './reset-password/reset-password.component';
 
 
 
@@ -16,7 +17,8 @@ import { ForgotPasswordComponent } from './forgot-password/forgot-password.compo
     UserRegisterComponent,
     UserLogoutComponent,
     RevokeSubscriptionComponent,
-    ForgotPasswordComponent
+    ForgotPasswordComponent,
+    ResetPasswordComponent
   ],
   imports: [
     CommonModule,

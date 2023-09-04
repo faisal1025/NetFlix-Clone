@@ -7,11 +7,13 @@ import { UserLoginComponent } from './user-login/user-login.component';
 import { UserLogoutComponent } from './user-logout/user-logout.component';
 import { UserRegisterComponent } from './user-register/user-register.component';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
+import { ResetPasswordComponent } from './reset-password/reset-password.component';
 
 const userRoutes: Routes = [
   {path:"register", component:UserRegisterComponent},
   {path:"login", component:UserLoginComponent},
   {path:"forgotPassword", component:ForgotPasswordComponent},
+  {path:"reset-password/:uid/:token", component:ResetPasswordComponent},
   {path:"logout", component:UserLogoutComponent, canActivate:[AuthGuard]},
   {path:"revokeSubscription", component:RevokeSubscriptionComponent, canActivate:[AuthGuard, AdminGuard]}
 ];

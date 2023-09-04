@@ -11,6 +11,7 @@ namespace NetChill.Project.Bussiness.Entities.Services.EmailServices
     {
         public string Subject { get; set; }
         public IList<string> SendTo { get; set; }
+        public IList<KeyValuePair<string, string>> Placeholder { get; set; }
         public string Body { get; set; }
     }
 }

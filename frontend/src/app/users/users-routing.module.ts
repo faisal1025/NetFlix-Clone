@@ -13,7 +13,7 @@ const userRoutes: Routes = [
   {path:"register", component:UserRegisterComponent},
   {path:"login", component:UserLoginComponent},
   {path:"forgotPassword", component:ForgotPasswordComponent},
-  {path:"reset-password/:uid/:token", component:ResetPasswordComponent},
+  {path:"reset-password", component:ResetPasswordComponent},
   {path:"logout", component:UserLogoutComponent, canActivate:[AuthGuard]},
   {path:"revokeSubscription", component:RevokeSubscriptionComponent, canActivate:[AuthGuard, AdminGuard]}
 ];

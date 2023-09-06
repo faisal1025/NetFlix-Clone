@@ -51,7 +51,7 @@
                         Password is required
                     </span>
                     <span class="form-text text-danger" 
-                    *ngIf="signupForm.errors?.['matched'] && (signupForm.controls['confirmPasswordData'].touched || signupForm.controls['confirmPasswordData'].dirty)"> 
+                    *ngIf="!signupForm.errors?.['matched'] && (signupForm.controls['confirmPasswordData'].touched || signupForm.controls['confirmPasswordData'].dirty)"> 
                         Passwords do not matched
                     </span>
                 </div>
@@ -66,12 +66,13 @@
                 </div>
         
                 <div class="form-group col-12 mt-3">
-                <button type="submit" class="btn btn-md" [disabled]="!signupForm.valid">Signup</button>
+                <button type="submit" class="btn btn-md"  [disabled]="!signupForm.valid">Signup</button>
                 <button type="reset" class="btn btn-secondary mx-2">Cancel</button>
                 </div>
                 <div class="text-center mt-3">Already have account? <a [routerLink]="['/login']">Login</a></div>
                 <!-- form value : {{signupForm.value | json}}<br>
                 form valid : {{signupForm.valid | json}} -->
+               
             </form>
             </div>
         </div>

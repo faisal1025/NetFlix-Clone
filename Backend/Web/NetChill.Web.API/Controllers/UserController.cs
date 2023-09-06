@@ -138,6 +138,42 @@ namespace NetChill.Web.API.Controllers
                 return Ok(Json);
             }
         }
+
+        [HttpPost("resetPassword")]
+        [Consumes("multipart/form-data")]
+        public async Task<IActionResult> ResetPassword([FromForm] ResetPasswordDto resetPasswordDto)
+        {
+            if(User.Identity.IsAuthenticated)
+            {
+                var id = Int32.Parse(resetPasswordDto.Uid);
+                var user = userAppService.GetUserByID(id);
+                if (user != null)
+                {
+                    // foreach (var claim in User.Claims)
+                    // {
+                        // Log or debug the claims to see their types and values
+                        // Console.WriteLine($"Claim Type: {claim.Type}, Claim Value: {claim.Value}");
+                    // }
+                    // var claims = User.Claims;
+                    var Email = User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value;
+                    if (user.Data.UserEmail == Email)
+                    {
+                        var result =  await userAppService.ResetPassword(resetPasswordDto);
+                        var Json = JsonConvert.SerializeObject(result.MainMessage); 
+                        
+                        return StatusCode(StatusCodes.Status200OK, Json);
+                    }
+                }
+                else
+                {
+                    return StatusCode(StatusCodes.Status400BadRequest);
+
+                }
+            }
+            
+            return StatusCode(StatusCodes.Status401Unauthorized, new Message("true" ,"Token is invalid"));
+            
+        }
         
     }
 }

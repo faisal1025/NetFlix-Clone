@@ -84,4 +84,13 @@ export class AuthService {
       UserEmail: data
     });
   }
+
+  sendResetPassword(formData: any, token:string): Observable<any>{
+    return this.http.post(`${this.baseUrl}/resetPassword`, formData, {
+      headers: new HttpHeaders({
+        // 'Content-Type': 'application/json',
+        "Authorization": `bearer ${token}`
+      })
+    })
+  }
 }

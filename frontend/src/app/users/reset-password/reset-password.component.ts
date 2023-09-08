@@ -1,7 +1,7 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Component } from '@angular/core';
 import { AbstractControl, FormControl, FormGroup, ValidationErrors, ValidatorFn, Validators } from '@angular/forms';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { catchError } from 'rxjs';
 import { AuthService } from 'src/app/service/AuthService/auth.service';
 
@@ -16,7 +16,7 @@ export class ResetPasswordComponent {
   uid!:string
   baseUrl = 'https://localhost:5001/api/User';
 
-  constructor(private auth:AuthService, private router: ActivatedRoute, private http: HttpClient) {}
+  constructor(private auth:AuthService, private router: ActivatedRoute, private route: Router) {}
   
   ngOnInit(): void {
     this.resetPassword = new FormGroup({
@@ -58,7 +58,11 @@ export class ResetPasswordComponent {
     )
     .subscribe(
       (res) => {
+        alert(res.Text)
         console.log(res);
+        if(res.Code == "true"){
+          this.route.navigateByUrl('login')
+        }
       }
     );
   }

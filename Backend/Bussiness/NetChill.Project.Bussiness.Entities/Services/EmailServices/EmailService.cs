@@ -42,10 +42,12 @@ namespace NetChill.Project.Bussiness.Entities.Services.EmailServices
             }
 
             using var smtp = new SmtpClient();
+            
             await smtp.ConnectAsync(emailConf.Host, emailConf.Port, MailKit.Security.SecureSocketOptions.StartTls);
-            await smtp.AuthenticateAsync(emailConf.UserName, emailConf.Password);
+            await smtp.AuthenticateAsync(Environment.GetEnvironmentVariable("mail_username"), Environment.GetEnvironmentVariable("mail_password"));
             await smtp.SendAsync(mail);
             await smtp.DisconnectAsync(true);
+            
         }
 
         private string getMailBody(string templateName)

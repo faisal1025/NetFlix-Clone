@@ -169,12 +169,20 @@
       "PackagePath": "staticwebassets\\movies\\poster\\60d42513-5e5e-4bdd-a69a-ea52fbc7a569_aWomenInLove.jpg"
     },
     {
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\7572bd50-5e3b-4e5f-9def-e640bd5ae074_astro.jpg",
+      "PackagePath": "staticwebassets\\movies\\poster\\7572bd50-5e3b-4e5f-9def-e640bd5ae074_astro.jpg"
+    },
+    {
       "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\85fdb132-65b7-4ea1-bce2-a022d44f90ec_cityNight.jpg",
       "PackagePath": "staticwebassets\\movies\\poster\\85fdb132-65b7-4ea1-bce2-a022d44f90ec_cityNight.jpg"
     },
     {
       "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\d69a5f38-c1d3-4645-b398-d084f257360e_After.jpg",
       "PackagePath": "staticwebassets\\movies\\poster\\d69a5f38-c1d3-4645-b398-d084f257360e_After.jpg"
+    },
+    {
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\e420a829-3a9e-49b5-bd4e-054041ee8873_afterOutBreak.jpg",
+      "PackagePath": "staticwebassets\\movies\\poster\\e420a829-3a9e-49b5-bd4e-054041ee8873_afterOutBreak.jpg"
     },
     {
       "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\poster\\f7ee589e-adc8-40dc-8b4d-b5bfc8200c4f_cityNight.jpg",
@@ -187,6 +195,10 @@
     {
       "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\152709a0-b005-4465-b7b2-ec002057f4a6_SampleVideo_1280x720_1mb.mp4",
       "PackagePath": "staticwebassets\\movies\\video\\152709a0-b005-4465-b7b2-ec002057f4a6_SampleVideo_1280x720_1mb.mp4"
+    },
+    {
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\2c5f19d4-3687-4aa7-90a1-4abf79496279_SampleVideo_1280x720_1mb.mp4",
+      "PackagePath": "staticwebassets\\movies\\video\\2c5f19d4-3687-4aa7-90a1-4abf79496279_SampleVideo_1280x720_1mb.mp4"
     },
     {
       "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\4978bfe4-04a2-4f4b-9da7-3192f256a79b_SampleVideo_1280x720_1mb.mp4",
@@ -211,6 +223,10 @@
     {
       "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\84dfae1f-2be4-4289-9a01-a58f24884d81_SampleVideo_1280x720_1mb.mp4",
       "PackagePath": "staticwebassets\\movies\\video\\84dfae1f-2be4-4289-9a01-a58f24884d81_SampleVideo_1280x720_1mb.mp4"
+    },
+    {
+      "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\bb28734c-a23f-4332-a88d-6367546dcb9b_SampleVideo_1280x720_1mb.mp4",
+      "PackagePath": "staticwebassets\\movies\\video\\bb28734c-a23f-4332-a88d-6367546dcb9b_SampleVideo_1280x720_1mb.mp4"
     },
     {
       "Id": "D:\\Angular+.Net\\NetFlix-Clone\\Backend\\Web\\NetChill.Web.API\\wwwroot\\movies\\video\\c3c7ad56-5643-488d-a134-df2997e32b15_SampleVideo_1280x720_1mb.mp4",

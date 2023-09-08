@@ -201,12 +201,12 @@ namespace NetChill.Project.UserDomains.AppServices
             var userDto = mapper.Map<UserDomain, UserDTO>(user);
             if(status == 1)
             {
-                var message = new Message(String.Empty, "Password is updated Successfully");
+                var message = new Message("true", "Password is updated Successfully");
                 return new OperationResult<UserDTO>(userDto, true, message);
             }
             else
             {
-                var message = new Message(String.Empty, "Password is not updated somethiing went wrong");
+                var message = new Message("false", "Password is not updated somethiing went wrong");
                 return new OperationResult<UserDTO>(userDto, false, message);
             }
 

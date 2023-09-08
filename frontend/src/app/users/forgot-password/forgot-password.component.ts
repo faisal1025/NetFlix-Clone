@@ -23,7 +23,7 @@ export class ForgotPasswordComponent implements OnInit{
     var email:string = this.forgotPassword.value.emailData;
     this.auth.sendRecoveryEmail(email).subscribe(res=>{
       console.log(res);
-      
+      alert(res.Text)
     })
   }
 
